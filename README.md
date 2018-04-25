@@ -51,7 +51,7 @@ Training
     unzip cornell_movie_dialogs_corpus.zip
 
     # move to `data/` root
-    mv "corenell movie-dialogs corpus"/* .
+    mv "cornell movie-dialogs corpus"/* 
     ```
 
 2. Prepare data for training, in the `data/` directory, run the `prepare_data.py` script
